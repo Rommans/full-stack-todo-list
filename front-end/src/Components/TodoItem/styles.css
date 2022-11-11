@@ -1,0 +1,9 @@
+.todo-list {
+  max-width: 800px;
+  margin: auto;
+  text-align: left;
+  padding: 10px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}

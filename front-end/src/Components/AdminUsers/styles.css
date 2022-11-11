@@ -1,0 +1,19 @@
+.user-list {
+  max-width: 800px;
+  margin: 20px auto;
+  text-align: left;
+  padding: 10px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.search-bar {
+  max-width: 800px;
+  margin: auto;
+  padding: 20px 0;
+}
+
+.error {
+  border: 1px solid red;
+}

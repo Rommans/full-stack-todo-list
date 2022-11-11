@@ -1,0 +1,30 @@
+nav {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    padding: 5px;
+}
+
+/* a {
+    color: aliceblue;
+    text-decoration: none;
+    background: rgb(220, 53, 69);
+    border-radius: 6px;
+    text-align: center;
+    padding: 7px;
+}
+
+a:hover {
+    color: aliceblue;
+    background: #bb2d3b;
+} */
+
+#dropdown-basic {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#dropdown-basic svg {
+    font-size: x-large;
+}
