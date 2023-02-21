@@ -1,6 +1,8 @@
-# full-stack-todo-list
+## Todo-list
 
-To run project you need
+It is a todo list project with own API.
+
+## Instalations
 
 Front End:
 ```bash
@@ -12,3 +14,11 @@ Back End:
 npm i
 npm run dev
 ```
+
+## Technologies 
+
+- React
+- Node JS
+- React Router DOM v6
+- Axios
+- Mongo DB
